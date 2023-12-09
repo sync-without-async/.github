@@ -3,6 +3,13 @@
 
 2023 Hallym University Capstone Design Project "Re:Hab" Organization Main README.md
 
+## 🏆 Prize 
+
+**2023학년도 2학기 한림대학교 소프트웨어캡스톤디자인 경진대회 대상 (1위, 총장상) 수상 🏆**
+
+<img width="800px" src="https://github.com/sync-without-async/.github/assets/53892427/7148accc-0bac-4dbf-8126-1d80a8bb7f86">
+
+
 ## 🫱🏻‍🫲🏻 Sync-without-Async Team
 
 |FE | FE | BE | BE | AI |
