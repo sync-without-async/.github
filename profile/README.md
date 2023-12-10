@@ -10,7 +10,7 @@
 <img width="800px" src="https://github.com/sync-without-async/.github/assets/53892427/7148accc-0bac-4dbf-8126-1d80a8bb7f86">
 
 
-## 🫱🏻‍🫲🏻 Sync-without-Async Team
+## 🫱🏻‍🫲🏻 Sync-without-Async Team (비동기없는동기처리)
 
 |FE | FE | BE | BE | AI |
 | :---: | :---: | :---: | :---: | :---: |
