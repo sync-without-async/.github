@@ -47,7 +47,8 @@
 ## 1. 프로젝트 명
 비대면 재활 치료를 돕는 웹 서비스, Re:Hab
 
-![image](https://github.com/osohyun0224/Capstone-Rehab-FrontEnd/assets/53892427/cfae25b7-cfd3-42da-a0ce-f902d15d43c8)
+![# _1번 진짜 최최종](https://github.com/user-attachments/assets/579dd2f3-cb42-49cb-b5dd-497d23fe5aa4)
+
 
 ## 2. 프로젝트 소개
 > 본 프로젝트는 병원을 도메인으로 하는 비대면 재활치료를 돕는 웹서비스이다.
@@ -78,7 +79,7 @@
 
 ## 6. 프로젝트 시연 영상
 
-[시연영상 바로가기](https://youtu.be/HuXwZLn8_XQ)
+[시연영상 바로가기](https://www.youtube.com/watch?v=A3ZvNHOCbQM)
 
 ## 7. 프로젝트 전체 아키텍쳐
 
