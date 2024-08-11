@@ -12,7 +12,7 @@
 
 **2024 SW중심대학 디지털 경진대회 SW부문 후원기업상 (4위, 딥노이드) 수상 🏆**
 
-<img width="800px" src="https://github.com/user-attachments/assets/5a38797f-8278-4718-afeb-c92e759dcdf0">
+<img width="800px" src="https://github.com/user-attachments/assets/3b9e827f-3567-44a4-a193-d73d88447129">
 
 
 ## 🫱🏻‍🫲🏻 Sync-without-Async Team (비동기없는동기처리)
