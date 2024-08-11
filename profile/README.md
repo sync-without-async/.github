@@ -1,7 +1,19 @@
-> [2024 SW중심대학 디지털 경진대회 출풀작]
+> [2023-2 한림대학교 소프트웨어캡스톤디자인 경진대회 출품작] <br/>
+> [2024 SW중심대학 디지털 경진대회 출품작] 
 # 비대면 재활치료를 돕는 웹서비스, Re:Hab
 
-2024 SW중심대학 디지털 경진대회 출품작 "Re:Hab" Organization Main README.md
+2023 Hallym University Capstone Design Project "Re:Hab" Organization Main README.md
+
+## 🏆 Prize 
+
+**2023학년도 2학기 한림대학교 소프트웨어캡스톤디자인 경진대회 대상 (1위, 총장상) 수상 🏆**
+
+<img width="800px" src="https://github.com/sync-without-async/.github/assets/53892427/7148accc-0bac-4dbf-8126-1d80a8bb7f86">
+
+**2024 SW중심대학 디지털 경진대회 SW부문 후원기업상 (4위, 딥노이드) 수상 🏆**
+
+<img width="800px" src="https://github.com/user-attachments/assets/5a38797f-8278-4718-afeb-c92e759dcdf0">
+
 
 ## 🫱🏻‍🫲🏻 Sync-without-Async Team (비동기없는동기처리)
 
