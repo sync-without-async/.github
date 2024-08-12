@@ -1,5 +1,5 @@
-> [2023-2 한림대학교 소프트웨어캡스톤디자인 경진대회 출품작] <br/>
-> [2024 SW중심대학 디지털 경진대회 출품작] 
+> [2023-2 한림대학교 소프트웨어캡스톤디자인 경진대회 대상 (1위, 총장상) 수상 🏆] <br/>
+> [2024 SW중심대학 디지털 경진대회 후원기업상 (4위, 딥노이드) 수상 🏆] 
 # 비대면 재활치료를 돕는 웹서비스, Re:Hab
 
 2023 Hallym University Capstone Design Project "Re:Hab" Organization Main README.md
